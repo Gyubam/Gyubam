@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![Gyubam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyubam&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Gyubam)
 
 ## 🔧 stack
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
