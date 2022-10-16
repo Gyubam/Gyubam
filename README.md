@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning Back-end skills
 - 🌱 I’m currently interested in Spring MVC, Java, JPA, AOP
 - :mortar_board: I majored in Computer Engineering
-- 💬 About Me  <img src="https://img.shields.io/badge/Notion-F50057?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+- 💬 About Me  <a href="https://goofy-haddock-05e.notion.site/1d29cbe7cc7e4be9855fd49f288afa1a"><img src="https://img.shields.io/badge/Notion-F50057?style=flat-square&logo=Notion&logoColor=white"></a> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
 - 📫 How to reach me: [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:sgb8170@naver.com)](mailto:sgb8170@naver.com)
 </div>
 </br>
